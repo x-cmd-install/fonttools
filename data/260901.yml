@@ -1,0 +1,57 @@
+about:
+  description: A library to manipulate font files from Python.
+  license: MIT
+  homepage: 
+  head: 65840bb
+  archived: false
+  latestVersion: 4.64.0
+  collectedAt: 2026-09-01T03:33:19Z
+timeline:
+  created: 2013-07-24
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 5223
+  watcher: 116
+  fork: 537
+  release: 232
+  contributor: 149
+  pullRequest: 514
+  issue: 1821
+language:
+  Python: 7186683
+  Jupyter Notebook: 3522
+totalLine: 7190205
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 1
+    mergedPR: 14
+    openPR: 3
+    closedIssue: 3
+    openIssue: 3
+    commit: 67
+  last90d:
+    since: 2026-06-03
+    release: 1
+    mergedPR: 48
+    openPR: 5
+    closedIssue: 9
+    openIssue: 5
+    commit: 173
+  last180d:
+    since: 2026-03-05
+    release: 4
+    mergedPR: 72
+    openPR: 8
+    closedIssue: 14
+    openIssue: 8
+    commit: 217
+  last360d:
+    since: 2025-09-06
+    release: 9
+    mergedPR: 139
+    openPR: 10
+    closedIssue: 44
+    openIssue: 22
+    commit: 573
