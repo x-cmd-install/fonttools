@@ -7,7 +7,7 @@ about:
   head: 18f0f44
   archived: false
   latestVersion: 4.64.0
-  collectedAt: 2026-09-04T19:20:03Z
+  collectedAt: 2026-09-04T21:19:32Z
 timeline:
   created: 2013-07-24
   lastCommit: 2026-09-02
@@ -81,6 +81,84 @@ total:
   openIssue: 337
   commit: 13247
 ---
+path: /home/runner/.x-repo/github.com/fonttools/fonttools
+collectedAt: 2026-09-04T21:19:36Z
+loc:
+  Python:
+    code: 173409
+    comments: 9828
+    blanks: 22280
+    files: 552
+  ReStructuredText:
+    code: 7418
+    comments: 0
+    blanks: 2234
+    files: 221
+  OpenType:
+    code: 2671
+    comments: 324
+    blanks: 406
+    files: 163
+  Xml:
+    code: 103
+    comments: 0
+    blanks: 0
+    files: 1
+  Ini:
+    code: 80
+    comments: 10
+    blanks: 7
+    files: 2
+  ForgeConfig:
+    code: 54
+    comments: 0
+    blanks: 7
+    files: 1
+  Jupyter:
+    code: 49
+    comments: 14
+    blanks: 15
+    files: 1
+  Autoconf:
+    code: 37
+    comments: 0
+    blanks: 6
+    files: 1
+  Batch:
+    code: 27
+    comments: 1
+    blanks: 8
+    files: 1
+  Makefile:
+    code: 10
+    comments: 6
+    blanks: 4
+    files: 1
+  Toml:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Json:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 763
+    blanks: 298
+    files: 6
+  Text:
+    code: 0
+    comments: 475
+    blanks: 96
+    files: 38
+total:
+  code: 183977
+  comments: 11441
+  blanks: 25379
+  files: 990
 ---
 date: "2026-08-24"
 repo:
