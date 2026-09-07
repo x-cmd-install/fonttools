@@ -5,18 +5,18 @@ about:
   head: 7af8bf5
   archived: false
   latestVersion: "4.64.0"
-  collectedAt: 2026-09-07T05:55:48Z
+  collectedAt: 2026-09-07T18:37:03Z
 timeline:
   created: 2013-07-24
   lastCommit: 2026-09-04
   lastRelease: 2026-08-31
 popularity:
-  star: 5233
+  star: 5235
   watcher: 116
   fork: 538
   release: 232
   contributor: 149
-  pullRequest: 2201
+  pullRequest: 2202
   issue: 1822
 language:
   Python: 7192354
@@ -27,60 +27,60 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 14
-    openPR: 3
-    closedIssue: 3
-    openIssue: 4
+    openPR: 4
+    closedIssue: 4
+    openIssue: 3
     commit: 62
   last60d:
     since: 2026-07-09
     release: 1
     mergedPR: 29
-    openPR: 4
-    closedIssue: 6
-    openIssue: 5
+    openPR: 5
+    closedIssue: 7
+    openIssue: 4
     commit: 102
   last90d:
     since: 2026-06-09
     release: 1
     mergedPR: 50
-    openPR: 4
-    closedIssue: 9
-    openIssue: 6
+    openPR: 5
+    closedIssue: 10
+    openIssue: 5
     commit: 182
   last180d:
     since: 2026-03-11
     release: 3
     mergedPR: 71
-    openPR: 8
-    closedIssue: 13
-    openIssue: 9
+    openPR: 9
+    closedIssue: 14
+    openIssue: 8
     commit: 215
   last360d:
     since: 2025-09-12
     release: 9
     mergedPR: 141
-    openPR: 10
-    closedIssue: 43
-    openIssue: 21
+    openPR: 11
+    closedIssue: 44
+    openIssue: 20
     commit: 563
   last720d:
     since: 2024-09-17
     release: 31
     mergedPR: 288
-    openPR: 14
-    closedIssue: 115
-    openIssue: 61
+    openPR: 15
+    closedIssue: 116
+    openIssue: 60
     commit: 1188
 total:
   release: 232
   mergedPR: 1687
-  openPR: 64
-  closedIssue: 1484
-  openIssue: 338
+  openPR: 65
+  closedIssue: 1485
+  openIssue: 337
   commit: 13249
 ---
 path: /home/runner/.x-repo/github.com/fonttools/fonttools
-collectedAt: 2026-09-07T05:55:58Z
+collectedAt: 2026-09-07T18:37:09Z
 loc:
   Python:
     code: 173447
@@ -262,7 +262,7 @@ checks:
       - 'Warn: 0 commits out of 28 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:55:59+00:00
+  collectedAt: 2026-09-07T18:37:10+00:00
   platform:
     darwin/arm64:
       name:  null
