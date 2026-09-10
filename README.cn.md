@@ -12,7 +12,7 @@ A library to manipulate font files from Python.
 x install fonttools
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **184,336** 行代码（覆盖前 5 种语言、共 **945** 个文件）。
 
@@ -65,7 +65,7 @@ x install fonttools
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/fonttools) 上共有 **189** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**176** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/fonttools) 上共有 **191** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**175** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -91,4 +91,4 @@ fonttools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:21:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:39:06Z._

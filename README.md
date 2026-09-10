@@ -65,7 +65,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **189** distros on [repology.org](https://repology.org/project/fonttools). **1** are ✅ on the latest upstream release, **176** are ⚠️ on an older version.
+Reported by **191** distros on [repology.org](https://repology.org/project/fonttools). **3** are ✅ on the latest upstream release, **175** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:20:59Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:39:04Z._
