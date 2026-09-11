@@ -2,20 +2,20 @@ about:
   description: "A library to manipulate font files from Python."
   license: MIT
   homepage: 
-  head: f16966c
+  head: 3fb6622
   archived: false
   latestVersion: "4.65.0"
   latestRelease: "4.65.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:59:41Z
+  collectedAt: 2026-09-11T18:54:59Z
 timeline:
   created: 2013-07-24
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-10
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 5245
+  star: 5246
   watcher: 116
   fork: 540
   release: 233
@@ -23,73 +23,73 @@ popularity:
   pullRequest: 2208
   issue: 1823
 language:
-  Python: 7208821
+  Python: 7212915
   Jupyter Notebook: 3522
-totalBytes: 7212343
+totalBytes: 7216437
 recent:
   last30d:
     since: 2026-08-12
     release: 2
-    mergedPR: 15
-    openPR: 3
+    mergedPR: 16
+    openPR: 2
     closedIssue: 4
     openIssue: 3
-    commit: 74
+    commit: 76
   last60d:
     since: 2026-07-13
     release: 2
-    mergedPR: 30
-    openPR: 4
+    mergedPR: 31
+    openPR: 3
     closedIssue: 7
     openIssue: 5
-    commit: 114
+    commit: 116
   last90d:
     since: 2026-06-13
     release: 2
-    mergedPR: 54
-    openPR: 4
+    mergedPR: 55
+    openPR: 3
     closedIssue: 10
     openIssue: 6
-    commit: 194
+    commit: 196
   last180d:
     since: 2026-03-15
     release: 3
-    mergedPR: 71
-    openPR: 7
+    mergedPR: 72
+    openPR: 6
     closedIssue: 14
     openIssue: 9
-    commit: 227
+    commit: 229
   last360d:
     since: 2025-09-16
     release: 10
-    mergedPR: 144
-    openPR: 9
+    mergedPR: 145
+    openPR: 8
     closedIssue: 43
     openIssue: 19
-    commit: 575
+    commit: 577
   last720d:
     since: 2024-09-21
     release: 32
-    mergedPR: 292
-    openPR: 14
+    mergedPR: 293
+    openPR: 13
     closedIssue: 116
     openIssue: 60
-    commit: 1195
+    commit: 1197
 total:
   release: 233
-  mergedPR: 1691
-  openPR: 64
+  mergedPR: 1692
+  openPR: 63
   closedIssue: 1486
   openIssue: 337
-  commit: 13261
+  commit: 13263
 ---
 path: /home/runner/.x-repo/github.com/fonttools/fonttools
-collectedAt: 2026-09-11T05:59:47Z
+collectedAt: 2026-09-11T18:55:05Z
 loc:
   Python:
-    code: 173796
-    comments: 9862
-    blanks: 22336
+    code: 173873
+    comments: 9874
+    blanks: 22350
     files: 554
   ReStructuredText:
     code: 7438
@@ -157,9 +157,9 @@ loc:
     blanks: 96
     files: 38
 total:
-  code: 184452
-  comments: 11501
-  blanks: 25450
+  code: 184529
+  comments: 11513
+  blanks: 25464
   files: 996
 ---
 date: "2026-09-07"
