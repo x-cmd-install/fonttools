@@ -56,16 +56,16 @@ x install fonttools
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 16 | 2 | 4 | 3 | 76 |
-| last60d | 2026-07-13 | 2 | 31 | 3 | 7 | 5 | 116 |
-| 90d | 2026-06-13 | 2 | 55 | 3 | 10 | 6 | 196 |
-| last180d | 2026-03-15 | 3 | 72 | 6 | 14 | 9 | 229 |
-| 360d | 2025-09-16 | 10 | 145 | 8 | 43 | 19 | 577 |
-| last720d | 2024-09-21 | 32 | 293 | 13 | 116 | 60 | 1197 |
+| 30d | 2026-08-13 | 2 | 16 | 2 | 4 | 3 | 76 |
+| last60d | 2026-07-14 | 2 | 27 | 3 | 5 | 5 | 116 |
+| 90d | 2026-06-14 | 2 | 55 | 3 | 10 | 6 | 196 |
+| last180d | 2026-03-16 | 3 | 71 | 6 | 14 | 9 | 229 |
+| 360d | 2025-09-17 | 10 | 144 | 8 | 43 | 19 | 577 |
+| last720d | 2024-09-22 | 32 | 293 | 13 | 116 | 60 | 1197 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/fonttools) 上共有 **192** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**172** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/fonttools) 上共有 **191** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**171** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -75,7 +75,7 @@ x install fonttools
 | Ubuntu 26.04 LTS | `4.61.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `4.46.0` | ⚠️ outdated |
 | Arch | `4.65.0` | ✅ latest |
-| Homebrew | `4.64.0` | ⚠️ outdated |
+| Homebrew | `4.65.0` | ✅ latest |
 | Fedora rawhide | `4.64.0` | ⚠️ outdated |
 | Nix unstable | `4.63.0` | ⚠️ outdated |
 | Void | `4.59.0` | ⚠️ outdated |
@@ -91,4 +91,4 @@ fonttools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T18:55:10Z._
+_数据快照: `data/card/260912.yml` · 2026-09-12T05:48:19Z._

@@ -56,16 +56,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 16 | 2 | 4 | 3 | 76 |
-| last60d | 2026-07-13 | 2 | 31 | 3 | 7 | 5 | 116 |
-| 90d | 2026-06-13 | 2 | 55 | 3 | 10 | 6 | 196 |
-| last180d | 2026-03-15 | 3 | 72 | 6 | 14 | 9 | 229 |
-| 360d | 2025-09-16 | 10 | 145 | 8 | 43 | 19 | 577 |
-| last720d | 2024-09-21 | 32 | 293 | 13 | 116 | 60 | 1197 |
+| 30d | 2026-08-13 | 2 | 16 | 2 | 4 | 3 | 76 |
+| last60d | 2026-07-14 | 2 | 27 | 3 | 5 | 5 | 116 |
+| 90d | 2026-06-14 | 2 | 55 | 3 | 10 | 6 | 196 |
+| last180d | 2026-03-16 | 3 | 71 | 6 | 14 | 9 | 229 |
+| 360d | 2025-09-17 | 10 | 144 | 8 | 43 | 19 | 577 |
+| last720d | 2024-09-22 | 32 | 293 | 13 | 116 | 60 | 1197 |
 
 ## Distribution status
 
-Reported by **192** distros on [repology.org](https://repology.org/project/fonttools). **6** are ✅ on the latest upstream release, **172** are ⚠️ on an older version.
+Reported by **191** distros on [repology.org](https://repology.org/project/fonttools). **7** are ✅ on the latest upstream release, **171** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -75,7 +75,7 @@ Reported by **192** distros on [repology.org](https://repology.org/project/fontt
 | Ubuntu 26.04 LTS | `4.61.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `4.46.0` | ⚠️ outdated |
 | Arch | `4.65.0` | ✅ latest |
-| Homebrew | `4.64.0` | ⚠️ outdated |
+| Homebrew | `4.65.0` | ✅ latest |
 | Fedora rawhide | `4.64.0` | ⚠️ outdated |
 | Nix unstable | `4.63.0` | ⚠️ outdated |
 | Void | `4.59.0` | ⚠️ outdated |
@@ -91,4 +91,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:55:10Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:48:18Z._
