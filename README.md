@@ -14,12 +14,12 @@ x install fonttools
 
 ## Code insight
 
-Total: **184,413** lines of code across **945** files in the top 5 languages.
+Total: **184,432** lines of code across **945** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 173,873 | 9,874 | 22,350 | 554 |
-| ReStructuredText | 7,438 | 0 | 2,236 | 221 |
+| Python | 173,891 | 9,874 | 22,351 | 554 |
+| ReStructuredText | 7,439 | 0 | 2,236 | 221 |
 | OpenType | 2,739 | 350 | 419 | 167 |
 | Xml | 103 | 0 | 0 | 1 |
 | Ini | 80 | 10 | 7 | 2 |
@@ -42,30 +42,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.65.0` (2026-09-10)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-12
 
 ## Popularity
 
-- **Stars**: 5,246 · **Forks**: 540 · **Open issues**: 1,823 · **Contributors**: 149
+- **Stars**: 5,246 · **Forks**: 541 · **Open issues**: 1,824 · **Contributors**: 150
 
 ## Totals (cumulative)
 
-- **Releases**: 233 · **Merged PRs**: 1692 · **Open PRs**: 63 · **Closed issues**: 1486 · **Open issues**: 337 · **Commits**: 13263
+- **Releases**: 233 · **Merged PRs**: 1693 · **Open PRs**: 67 · **Closed issues**: 1487 · **Open issues**: 337 · **Commits**: 13265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 16 | 2 | 4 | 3 | 76 |
-| last60d | 2026-07-14 | 2 | 27 | 3 | 5 | 5 | 116 |
-| 90d | 2026-06-14 | 2 | 55 | 3 | 10 | 6 | 196 |
-| last180d | 2026-03-16 | 3 | 71 | 6 | 14 | 9 | 229 |
-| 360d | 2025-09-17 | 10 | 144 | 8 | 43 | 19 | 577 |
-| last720d | 2024-09-22 | 32 | 293 | 13 | 116 | 60 | 1197 |
+| 30d | 2026-08-14 | 2 | 16 | 6 | 4 | 4 | 41 |
+| last60d | 2026-07-15 | 2 | 28 | 7 | 5 | 6 | 118 |
+| 90d | 2026-06-15 | 2 | 55 | 7 | 10 | 7 | 171 |
+| last180d | 2026-03-17 | 3 | 71 | 10 | 14 | 9 | 227 |
+| 360d | 2025-09-18 | 9 | 145 | 12 | 43 | 20 | 567 |
+| last720d | 2024-09-23 | 32 | 290 | 17 | 115 | 60 | 1199 |
 
 ## Distribution status
 
-Reported by **191** distros on [repology.org](https://repology.org/project/fonttools). **7** are ✅ on the latest upstream release, **171** are ⚠️ on an older version.
+Reported by **190** distros on [repology.org](https://repology.org/project/fonttools). **15** are ✅ on the latest upstream release, **162** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:48:18Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:15:21Z._
