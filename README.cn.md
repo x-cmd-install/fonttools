@@ -46,7 +46,7 @@ x install fonttools
 
 ## 流行度
 
-- **Star**: 5,246 · **Fork**: 541 · **开放 issue**: 1,824 · **贡献者**: 150
+- **Star**: 5,248 · **Fork**: 540 · **开放 issue**: 1,824 · **贡献者**: 150
 
 ## 累计统计
 
@@ -56,31 +56,12 @@ x install fonttools
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 16 | 6 | 4 | 4 | 41 |
-| last60d | 2026-07-15 | 2 | 28 | 7 | 5 | 6 | 118 |
-| 90d | 2026-06-15 | 2 | 55 | 7 | 10 | 7 | 171 |
-| last180d | 2026-03-17 | 3 | 71 | 10 | 14 | 9 | 227 |
-| 360d | 2025-09-18 | 9 | 145 | 12 | 43 | 20 | 567 |
-| last720d | 2024-09-23 | 32 | 290 | 17 | 115 | 60 | 1199 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/fonttools) 上共有 **190** 个发行版报告此项目。**15** 个 ✅ 已是最新上游版本，**162** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `4.62.1` | ⚠️ outdated |
-| Debian 14 | `4.62.1` | ⚠️ outdated |
-| Debian 13 | `4.57.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `4.61.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `4.46.0` | ⚠️ outdated |
-| Arch | `4.65.0` | ✅ latest |
-| Homebrew | `4.65.0` | ✅ latest |
-| Fedora rawhide | `4.64.0` | ⚠️ outdated |
-| Nix unstable | `4.63.0` | ⚠️ outdated |
-| Void | `4.59.0` | ⚠️ outdated |
-| Alpine edge | `4.60.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `4.62.1` | ⚠️ outdated |
+| 30d | 2026-08-15 | 2 | 16 | 7 | 4 | 4 | 41 |
+| last60d | 2026-07-16 | 2 | 28 | 8 | 5 | 6 | 118 |
+| 90d | 2026-06-16 | 2 | 53 | 8 | 10 | 7 | 171 |
+| last180d | 2026-03-18 | 3 | 71 | 11 | 14 | 9 | 227 |
+| 360d | 2025-09-19 | 9 | 145 | 12 | 43 | 20 | 567 |
+| last720d | 2024-09-24 | 31 | 290 | 17 | 115 | 60 | 1191 |
 
 ## 改进这些数据
 
@@ -91,4 +72,4 @@ fonttools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:15:24Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:29:23Z._
