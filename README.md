@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 28 | 4 | 3 | 3 | 70 |
-| last60d | 2026-07-23 | 2 | 43 | 6 | 6 | 4 | 149 |
-| 90d | 2026-06-23 | 2 | 58 | 6 | 10 | 6 | 198 |
-| last180d | 2026-03-25 | 3 | 85 | 8 | 15 | 7 | 263 |
-| 360d | 2025-09-26 | 9 | 154 | 10 | 44 | 19 | 589 |
-| last720d | 2024-10-01 | 30 | 303 | 15 | 116 | 57 | 1216 |
+| 30d | 2026-08-23 | 2 | 28 | 4 | 3 | 3 | 70 |
+| last60d | 2026-07-24 | 2 | 43 | 6 | 6 | 4 | 149 |
+| 90d | 2026-06-24 | 2 | 57 | 6 | 10 | 6 | 198 |
+| last180d | 2026-03-26 | 3 | 85 | 8 | 14 | 7 | 263 |
+| 360d | 2025-09-27 | 9 | 154 | 10 | 44 | 19 | 589 |
+| last720d | 2024-10-02 | 30 | 303 | 15 | 116 | 57 | 1216 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:14:10Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:31:24Z._
