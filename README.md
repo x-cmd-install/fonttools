@@ -4,7 +4,7 @@
 
 A library to manipulate font files from Python.
 
-[![x-cmd/install — fonttools Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fonttools.svg)](https://x-cmd.com/install/fonttools)
+[![x-cmd/install — fonttools Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fonttools.svg)](https://x-cmd.com/install/fonttools)
 
 ## Install
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,258 · **Forks**: 542 · **Open issues**: 1,824 · **Contributors**: 151
+- **Stars**: 5,259 · **Forks**: 542 · **Open issues**: 1,824 · **Contributors**: 151
 
 ## Totals (cumulative)
 
-- **Releases**: 233 · **Merged PRs**: 1708 · **Open PRs**: 65 · **Closed issues**: 1493 · **Open issues**: 331 · **Commits**: 13301
+- **Releases**: 233 · **Merged PRs**: 1708 · **Open PRs**: 66 · **Closed issues**: 1493 · **Open issues**: 331 · **Commits**: 13301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 28 | 4 | 3 | 3 | 70 |
-| last60d | 2026-07-24 | 2 | 43 | 6 | 6 | 4 | 149 |
-| 90d | 2026-06-24 | 2 | 57 | 6 | 10 | 6 | 198 |
-| last180d | 2026-03-26 | 3 | 85 | 8 | 14 | 7 | 263 |
-| 360d | 2025-09-27 | 9 | 154 | 10 | 44 | 19 | 589 |
-| last720d | 2024-10-02 | 30 | 303 | 15 | 116 | 57 | 1216 |
+| 30d | 2026-08-24 | 2 | 27 | 5 | 3 | 3 | 70 |
+| last60d | 2026-07-25 | 2 | 43 | 7 | 6 | 4 | 149 |
+| 90d | 2026-06-25 | 2 | 57 | 7 | 10 | 6 | 198 |
+| last180d | 2026-03-27 | 3 | 85 | 9 | 14 | 7 | 263 |
+| 360d | 2025-09-28 | 9 | 153 | 11 | 43 | 19 | 589 |
+| last720d | 2024-10-03 | 30 | 303 | 16 | 116 | 57 | 1216 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:31:24Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:41:18Z._
