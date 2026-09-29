@@ -26,13 +26,13 @@ x install fonttools
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.9 / 10**
+总评分: **5.8 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (4/10) — Found 5/12 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -46,22 +46,22 @@ x install fonttools
 
 ## 流行度
 
-- **Star**: 5,266 · **Fork**: 543 · **开放 issue**: 1,825 · **贡献者**: 152
+- **Star**: 5,267 · **Fork**: 543 · **开放 issue**: 1,825 · **贡献者**: 152
 
 ## 累计统计
 
-- **发布数**: 234 · **已合并 PR**: 1713 · **开放 PR**: 66 · **已关闭 issue**: 1493 · **开放 issue**: 332 · **提交数**: 13318
+- **发布数**: 234 · **已合并 PR**: 1713 · **开放 PR**: 68 · **已关闭 issue**: 1493 · **开放 issue**: 332 · **提交数**: 13318
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 3 | 28 | 4 | 2 | 3 | 71 |
-| last60d | 2026-07-30 | 3 | 43 | 6 | 6 | 5 | 147 |
-| 90d | 2026-06-30 | 3 | 59 | 7 | 9 | 7 | 178 |
-| last180d | 2026-04-01 | 4 | 89 | 9 | 13 | 8 | 279 |
-| 360d | 2025-10-03 | 9 | 156 | 11 | 43 | 20 | 606 |
-| last720d | 2024-10-08 | 31 | 305 | 16 | 116 | 58 | 1216 |
+| 30d | 2026-08-30 | 3 | 28 | 6 | 2 | 2 | 71 |
+| last60d | 2026-07-31 | 3 | 43 | 8 | 6 | 5 | 147 |
+| 90d | 2026-07-01 | 3 | 59 | 9 | 9 | 7 | 178 |
+| last180d | 2026-04-02 | 4 | 89 | 11 | 13 | 8 | 279 |
+| 360d | 2025-10-04 | 9 | 156 | 13 | 43 | 20 | 606 |
+| last720d | 2024-10-09 | 31 | 304 | 18 | 116 | 58 | 1216 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ fonttools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T06:28:11Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:52:25Z._
