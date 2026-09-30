@@ -14,12 +14,12 @@ x install fonttools
 
 ## Code insight
 
-Total: **185,490** lines of code across **947** files in the top 5 languages.
+Total: **185,619** lines of code across **947** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 174,843 | 9,965 | 22,480 | 555 |
-| ReStructuredText | 7,508 | 0 | 2,239 | 221 |
+| Python | 174,959 | 9,982 | 22,498 | 555 |
+| ReStructuredText | 7,521 | 0 | 2,241 | 221 |
 | OpenType | 2,776 | 356 | 427 | 168 |
 | Xml | 103 | 0 | 0 | 1 |
 | Ini | 80 | 10 | 7 | 2 |
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `4.66.0` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Latest**: `4.66.1` (2026-09-29)
+- **Last commit**: 2026-09-29
 
 ## Popularity
 
-- **Stars**: 5,267 · **Forks**: 543 · **Open issues**: 1,825 · **Contributors**: 152
+- **Stars**: 5,269 · **Forks**: 545 · **Open issues**: 1,825 · **Contributors**: 153
 
 ## Totals (cumulative)
 
-- **Releases**: 234 · **Merged PRs**: 1713 · **Open PRs**: 68 · **Closed issues**: 1493 · **Open issues**: 332 · **Commits**: 13318
+- **Releases**: 235 · **Merged PRs**: 1716 · **Open PRs**: 68 · **Closed issues**: 1495 · **Open issues**: 330 · **Commits**: 13328
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 3 | 28 | 6 | 2 | 2 | 71 |
-| last60d | 2026-07-31 | 3 | 43 | 8 | 6 | 5 | 147 |
-| 90d | 2026-07-01 | 3 | 59 | 9 | 9 | 7 | 178 |
-| last180d | 2026-04-02 | 4 | 89 | 11 | 13 | 8 | 279 |
-| 360d | 2025-10-04 | 9 | 156 | 13 | 43 | 20 | 606 |
-| last720d | 2024-10-09 | 31 | 304 | 18 | 116 | 58 | 1216 |
+| 30d | 2026-08-31 | 4 | 31 | 6 | 3 | 1 | 75 |
+| last60d | 2026-08-01 | 4 | 46 | 8 | 7 | 4 | 151 |
+| 90d | 2026-07-02 | 4 | 60 | 9 | 9 | 5 | 182 |
+| last180d | 2026-04-03 | 5 | 92 | 11 | 14 | 7 | 283 |
+| 360d | 2025-10-05 | 10 | 159 | 13 | 44 | 19 | 610 |
+| last720d | 2024-10-10 | 32 | 307 | 18 | 117 | 57 | 1226 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:52:24Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:42:40Z._
