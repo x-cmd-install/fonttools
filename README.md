@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,272 · **Forks**: 545 · **Open issues**: 1,825 · **Contributors**: 153
+- **Stars**: 5,272 · **Forks**: 546 · **Open issues**: 1,825 · **Contributors**: 153
 
 ## Totals (cumulative)
 
-- **Releases**: 235 · **Merged PRs**: 1720 · **Open PRs**: 66 · **Closed issues**: 1495 · **Open issues**: 330 · **Commits**: 13340
+- **Releases**: 235 · **Merged PRs**: 1720 · **Open PRs**: 68 · **Closed issues**: 1495 · **Open issues**: 330 · **Commits**: 13340
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 3 | 34 | 4 | 3 | 1 | 78 |
-| last60d | 2026-08-02 | 4 | 50 | 6 | 6 | 4 | 154 |
-| 90d | 2026-07-03 | 4 | 63 | 7 | 9 | 5 | 185 |
-| last180d | 2026-04-04 | 5 | 96 | 9 | 14 | 7 | 286 |
-| 360d | 2025-10-06 | 10 | 163 | 11 | 44 | 19 | 613 |
-| last720d | 2024-10-11 | 32 | 310 | 16 | 116 | 57 | 1238 |
+| 30d | 2026-09-02 | 3 | 34 | 6 | 3 | 1 | 78 |
+| last60d | 2026-08-03 | 4 | 47 | 8 | 6 | 4 | 154 |
+| 90d | 2026-07-04 | 4 | 63 | 9 | 9 | 5 | 185 |
+| last180d | 2026-04-05 | 5 | 96 | 11 | 14 | 7 | 286 |
+| 360d | 2025-10-07 | 10 | 163 | 13 | 44 | 19 | 613 |
+| last720d | 2024-10-12 | 32 | 310 | 18 | 116 | 56 | 1234 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T07:00:00Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:36:11Z._
