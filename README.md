@@ -14,11 +14,11 @@ x install fonttools
 
 ## Code insight
 
-Total: **185,755** lines of code across **948** files in the top 5 languages.
+Total: **185,880** lines of code across **948** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 175,084 | 10,001 | 22,523 | 556 |
+| Python | 175,209 | 10,006 | 22,544 | 556 |
 | ReStructuredText | 7,532 | 0 | 2,247 | 221 |
 | OpenType | 2,776 | 356 | 427 | 168 |
 | Xml | 103 | 0 | 0 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.66.1` (2026-09-29)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-02
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 235 · **Merged PRs**: 1720 · **Open PRs**: 68 · **Closed issues**: 1495 · **Open issues**: 330 · **Commits**: 13340
+- **Releases**: 235 · **Merged PRs**: 1723 · **Open PRs**: 89 · **Closed issues**: 1495 · **Open issues**: 330 · **Commits**: 13344
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 3 | 34 | 6 | 3 | 1 | 78 |
-| last60d | 2026-08-03 | 4 | 47 | 8 | 6 | 4 | 154 |
-| 90d | 2026-07-04 | 4 | 63 | 9 | 9 | 5 | 185 |
-| last180d | 2026-04-05 | 5 | 96 | 11 | 14 | 7 | 286 |
-| 360d | 2025-10-07 | 10 | 163 | 13 | 44 | 19 | 613 |
-| last720d | 2024-10-12 | 32 | 310 | 18 | 116 | 56 | 1234 |
+| 30d | 2026-09-03 | 3 | 37 | 27 | 3 | 1 | 82 |
+| last60d | 2026-08-04 | 4 | 50 | 29 | 6 | 4 | 158 |
+| 90d | 2026-07-05 | 4 | 66 | 30 | 9 | 5 | 189 |
+| last180d | 2026-04-06 | 5 | 98 | 31 | 14 | 7 | 290 |
+| 360d | 2025-10-08 | 10 | 165 | 34 | 44 | 17 | 617 |
+| last720d | 2024-10-13 | 32 | 313 | 39 | 116 | 56 | 1237 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:36:11Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:25:35Z._
