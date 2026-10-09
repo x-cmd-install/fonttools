@@ -14,11 +14,11 @@ x install fonttools
 
 ## Code insight
 
-Total: **188,165** lines of code across **949** files in the top 5 languages.
+Total: **188,446** lines of code across **949** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 177,492 | 10,055 | 22,806 | 557 |
+| Python | 177,773 | 10,067 | 22,847 | 557 |
 | ReStructuredText | 7,534 | 0 | 2,247 | 221 |
 | OpenType | 2,776 | 356 | 427 | 168 |
 | Xml | 103 | 0 | 0 | 1 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.66.1` (2026-09-29)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-09
 
 ## Popularity
 
-- **Stars**: 5,280 · **Forks**: 552 · **Open issues**: 1,827 · **Contributors**: 156
+- **Stars**: 5,282 · **Forks**: 553 · **Open issues**: 1,827 · **Contributors**: 157
 
 ## Totals (cumulative)
 
-- **Releases**: 235 · **Merged PRs**: 1758 · **Open PRs**: 73 · **Closed issues**: 1502 · **Open issues**: 325 · **Commits**: 13392
+- **Releases**: 235 · **Merged PRs**: 1767 · **Open PRs**: 67 · **Closed issues**: 1506 · **Open issues**: 321 · **Commits**: 13408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 3 | 68 | 11 | 4 | 0 | 106 |
-| last60d | 2026-08-09 | 4 | 85 | 13 | 8 | 4 | 185 |
-| 90d | 2026-07-10 | 4 | 100 | 14 | 11 | 5 | 223 |
-| last180d | 2026-04-11 | 5 | 133 | 15 | 16 | 7 | 326 |
-| 360d | 2025-10-13 | 10 | 198 | 18 | 46 | 16 | 648 |
-| last720d | 2024-10-18 | 32 | 347 | 23 | 121 | 51 | 1278 |
+| 30d | 2026-09-09 | 3 | 76 | 5 | 4 | 0 | 122 |
+| last60d | 2026-08-10 | 4 | 93 | 7 | 8 | 3 | 201 |
+| 90d | 2026-07-11 | 4 | 107 | 8 | 11 | 5 | 239 |
+| last180d | 2026-04-12 | 5 | 142 | 9 | 16 | 7 | 342 |
+| 360d | 2025-10-14 | 10 | 207 | 12 | 46 | 16 | 664 |
+| last720d | 2024-10-19 | 32 | 356 | 17 | 122 | 50 | 1293 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:09:51Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:08:20Z._
