@@ -26,7 +26,7 @@ Total: **201,788** lines of code across **987** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.1 / 10**
+Overall score: **5.9 / 10**
 
 Lowest-scoring checks:
 
@@ -42,30 +42,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.67.0` (2026-10-14)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-26
 
 ## Popularity
 
-- **Stars**: 5,300 · **Forks**: 567 · **Open issues**: 1,840 · **Contributors**: 162
+- **Stars**: 5,300 · **Forks**: 570 · **Open issues**: 1,840 · **Contributors**: 164
 
 ## Totals (cumulative)
 
-- **Releases**: 236 · **Merged PRs**: 1807 · **Open PRs**: 99 · **Closed issues**: 1521 · **Open issues**: 319 · **Commits**: 13646
+- **Releases**: 236 · **Merged PRs**: 1810 · **Open PRs**: 101 · **Closed issues**: 1521 · **Open issues**: 319 · **Commits**: 13649
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 91 | 38 | 10 | 5 | 193 |
-| last60d | 2026-08-27 | 5 | 121 | 41 | 14 | 8 | 303 |
-| 90d | 2026-07-28 | 5 | 137 | 42 | 17 | 9 | 385 |
-| last180d | 2026-04-29 | 6 | 180 | 43 | 24 | 12 | 573 |
-| 360d | 2025-10-31 | 11 | 243 | 46 | 51 | 18 | 878 |
-| last720d | 2024-11-05 | 33 | 385 | 51 | 129 | 49 | 1504 |
+| 30d | 2026-09-27 | 2 | 94 | 40 | 10 | 5 | 196 |
+| last60d | 2026-08-28 | 5 | 124 | 43 | 14 | 8 | 306 |
+| 90d | 2026-07-29 | 5 | 140 | 44 | 17 | 9 | 388 |
+| last180d | 2026-04-30 | 6 | 183 | 45 | 24 | 12 | 576 |
+| 360d | 2025-11-01 | 11 | 246 | 48 | 51 | 18 | 881 |
+| last720d | 2024-11-06 | 33 | 388 | 53 | 129 | 49 | 1502 |
 
 ## Distribution status
 
-Reported by **192** distros on [repology.org](https://repology.org/project/fonttools). **26** are ✅ on the latest upstream release, **147** are ⚠️ on an older version.
+Reported by **192** distros on [repology.org](https://repology.org/project/fonttools). **27** are ✅ on the latest upstream release, **146** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -80,7 +80,7 @@ Reported by **192** distros on [repology.org](https://repology.org/project/fontt
 | Nix unstable | `4.63.0` | ⚠️ outdated |
 | Void | `4.59.0` | ⚠️ outdated |
 | Alpine edge | `4.60.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `4.62.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `4.67.0` | ✅ latest |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:46:31Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:13:07Z._
