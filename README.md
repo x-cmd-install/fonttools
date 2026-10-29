@@ -46,26 +46,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,300 · **Forks**: 571 · **Open issues**: 1,840 · **Contributors**: 166
+- **Stars**: 5,300 · **Forks**: 572 · **Open issues**: 1,842 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 237 · **Merged PRs**: 1813 · **Open PRs**: 99 · **Closed issues**: 1523 · **Open issues**: 317 · **Commits**: 13656
+- **Releases**: 237 · **Merged PRs**: 1813 · **Open PRs**: 101 · **Closed issues**: 1523 · **Open issues**: 319 · **Commits**: 13656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 3 | 96 | 38 | 10 | 5 | 203 |
-| last60d | 2026-08-29 | 6 | 127 | 40 | 13 | 7 | 313 |
-| 90d | 2026-07-30 | 6 | 142 | 42 | 17 | 9 | 395 |
-| last180d | 2026-05-01 | 7 | 185 | 43 | 24 | 12 | 583 |
-| 360d | 2025-11-02 | 12 | 249 | 46 | 51 | 18 | 888 |
-| last720d | 2024-11-07 | 34 | 391 | 51 | 129 | 49 | 1505 |
+| 30d | 2026-09-29 | 3 | 94 | 40 | 10 | 7 | 203 |
+| last60d | 2026-08-30 | 6 | 127 | 42 | 13 | 8 | 313 |
+| 90d | 2026-07-31 | 6 | 142 | 44 | 17 | 11 | 395 |
+| last180d | 2026-05-02 | 7 | 185 | 45 | 24 | 14 | 583 |
+| 360d | 2025-11-03 | 12 | 248 | 48 | 50 | 20 | 888 |
+| last720d | 2024-11-08 | 34 | 391 | 53 | 129 | 51 | 1504 |
 
 ## Distribution status
 
-Reported by **195** distros on [repology.org](https://repology.org/project/fonttools). **6** are ✅ on the latest upstream release, **169** are ⚠️ on an older version.
+Reported by **192** distros on [repology.org](https://repology.org/project/fonttools). **11** are ✅ on the latest upstream release, **164** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -75,8 +75,8 @@ Reported by **195** distros on [repology.org](https://repology.org/project/fontt
 | Ubuntu 26.04 LTS | `4.61.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `4.46.0` | ⚠️ outdated |
 | Arch | `4.68.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `4.67.0` | ⚠️ outdated |
+| Homebrew | `4.68.0` | ✅ latest |
+| Fedora rawhide | `4.68.0` | ✅ latest |
 | Nix unstable | `4.63.0` | ⚠️ outdated |
 | Void | `4.59.0` | ⚠️ outdated |
 | Alpine edge | `4.60.1` | ⚠️ outdated |
@@ -91,4 +91,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:44:24Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:58:01Z._
