@@ -7,7 +7,7 @@ about:
   latestVersion: "4.68.0"
   latestRelease: "4.68.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:57:47Z
+  collectedAt: 2026-10-30T06:49:40Z
 timeline:
   created: 2013-07-24
   lastCommit: 2026-10-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-10-27
   lastPrerelease: 
 popularity:
-  star: 5300
+  star: 5299
   watcher: 115
   fork: 572
   release: 237
@@ -28,15 +28,15 @@ language:
 totalBytes: 7948618
 recent:
   last30d:
-    since: 2026-09-29
-    release: 3
-    mergedPR: 94
-    openPR: 40
+    since: 2026-09-30
+    release: 2
+    mergedPR: 92
+    openPR: 39
     closedIssue: 10
     openIssue: 7
     commit: 203
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 6
     mergedPR: 127
     openPR: 42
@@ -44,7 +44,7 @@ recent:
     openIssue: 8
     commit: 313
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 6
     mergedPR: 142
     openPR: 44
@@ -52,7 +52,7 @@ recent:
     openIssue: 11
     commit: 395
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 7
     mergedPR: 185
     openPR: 45
@@ -60,21 +60,21 @@ recent:
     openIssue: 14
     commit: 583
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 12
-    mergedPR: 248
+    mergedPR: 243
     openPR: 48
     closedIssue: 50
     openIssue: 20
     commit: 888
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 34
     mergedPR: 391
     openPR: 53
     closedIssue: 129
     openIssue: 51
-    commit: 1504
+    commit: 1503
 total:
   release: 237
   mergedPR: 1813
@@ -84,7 +84,7 @@ total:
   commit: 13656
 ---
 path: /home/runner/.x-repo/github.com/fonttools/fonttools
-collectedAt: 2026-10-29T06:57:53Z
+collectedAt: 2026-10-30T06:49:46Z
 loc:
   Python:
     code: 191015
