@@ -46,26 +46,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,299 · **Forks**: 572 · **Open issues**: 1,842 · **Contributors**: 166
+- **Stars**: 5,299 · **Forks**: 574 · **Open issues**: 1,842 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 237 · **Merged PRs**: 1813 · **Open PRs**: 101 · **Closed issues**: 1523 · **Open issues**: 319 · **Commits**: 13656
+- **Releases**: 237 · **Merged PRs**: 1814 · **Open PRs**: 102 · **Closed issues**: 1523 · **Open issues**: 319 · **Commits**: 13656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 2 | 92 | 39 | 10 | 7 | 203 |
-| last60d | 2026-08-31 | 6 | 127 | 42 | 13 | 8 | 313 |
-| 90d | 2026-08-01 | 6 | 142 | 44 | 17 | 11 | 395 |
-| last180d | 2026-05-03 | 7 | 185 | 45 | 24 | 14 | 583 |
-| 360d | 2025-11-04 | 12 | 243 | 48 | 50 | 20 | 888 |
-| last720d | 2024-11-09 | 34 | 391 | 53 | 129 | 51 | 1503 |
+| 30d | 2026-10-01 | 2 | 90 | 40 | 10 | 7 | 203 |
+| last60d | 2026-09-01 | 5 | 127 | 43 | 13 | 8 | 313 |
+| 90d | 2026-08-02 | 6 | 143 | 45 | 16 | 11 | 395 |
+| last180d | 2026-05-04 | 7 | 186 | 46 | 24 | 14 | 583 |
+| 360d | 2025-11-05 | 12 | 244 | 49 | 49 | 20 | 888 |
+| last720d | 2024-11-10 | 34 | 392 | 54 | 129 | 51 | 1503 |
 
 ## Distribution status
 
-Reported by **192** distros on [repology.org](https://repology.org/project/fonttools). **18** are ✅ on the latest upstream release, **157** are ⚠️ on an older version.
+Reported by **192** distros on [repology.org](https://repology.org/project/fonttools). **22** are ✅ on the latest upstream release, **153** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:49:53Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:46:46Z._
