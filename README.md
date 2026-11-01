@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,299 · **Forks**: 574 · **Open issues**: 1,842 · **Contributors**: 167
+- **Stars**: 5,300 · **Forks**: 574 · **Open issues**: 1,842 · **Contributors**: 167
 
 ## Totals (cumulative)
 
@@ -56,16 +56,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 90 | 40 | 10 | 7 | 203 |
-| last60d | 2026-09-01 | 5 | 127 | 43 | 13 | 8 | 313 |
-| 90d | 2026-08-02 | 6 | 143 | 45 | 16 | 11 | 395 |
-| last180d | 2026-05-04 | 7 | 186 | 46 | 24 | 14 | 583 |
-| 360d | 2025-11-05 | 12 | 244 | 49 | 49 | 20 | 888 |
-| last720d | 2024-11-10 | 34 | 392 | 54 | 129 | 51 | 1503 |
+| 30d | 2026-10-02 | 2 | 86 | 40 | 10 | 7 | 79 |
+| last60d | 2026-09-02 | 5 | 127 | 43 | 13 | 8 | 299 |
+| 90d | 2026-08-03 | 6 | 140 | 45 | 16 | 11 | 381 |
+| last180d | 2026-05-05 | 7 | 186 | 46 | 24 | 14 | 583 |
+| 360d | 2025-11-06 | 12 | 244 | 49 | 49 | 20 | 884 |
+| last720d | 2024-11-11 | 34 | 390 | 54 | 128 | 51 | 1503 |
 
 ## Distribution status
 
-Reported by **192** distros on [repology.org](https://repology.org/project/fonttools). **22** are ✅ on the latest upstream release, **153** are ⚠️ on an older version.
+Reported by **191** distros on [repology.org](https://repology.org/project/fonttools). **23** are ✅ on the latest upstream release, **151** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -91,4 +91,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:46:46Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:08:15Z._
