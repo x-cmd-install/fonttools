@@ -1,16 +1,53 @@
-- repo: alpine_3_22
-  subrepo: community
-  srcname: py3-fonttools
-  binname: py3-fonttools
-  visiblename: py3-fonttools
-  version: 4.58.0
-  origversion: 4.58.0-r0
-  status: outdated
-  summary: Converts OpenType and TrueType fonts to and from XML
-  maintainers:
-    - alpine@ptrcnull.me
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: python-fonttools
+  binname: python-fonttools
+  visiblename: python-fonttools
+  version: 4.68.0
+  origversion: 4.68.0-1
+  status: newest
+  summary: A library to manipulate font files from Python
   licenses:
-    - MIT AND OFL-1.1
+    - MIT
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: fonttools
+  binnames:
+    - python3-fonttools
+    - fonttools
+    - python-fonttools-doc
+  visiblename: fonttools
+  version: 4.65.0
+  origversion: 4.65.0-2
+  status: outdated
+  maintainers:
+    - debian-fonts@lists.debian.org
+    - lfaraone@debian.org
+    - mwei@debian.org
+  categories:
+    - fonts
+- repo: amazon_2
+  srcname: fonttools
+  visiblename: fonttools
+  version: "2.4"
+  origversion: 2.4-3.amzn2
+  status: outdated
+  summary: A tool to convert True/OpenType fonts to XML and back
+  licenses:
+    - BSD
+  categories:
+    - Development/Tools
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: python-fonttools
+  binname: python-fonttools
+  visiblename: python-fonttools
+  version: 4.68.0
+  origversion: 4.68.0-1
+  status: newest
+  summary: A library to manipulate font files from Python
+  licenses:
+    - MIT
 - repo: aixtoolbox
   srcname: python3.12-fonttools
   visiblename: python3.12-fonttools
@@ -46,6 +83,17 @@
     - fallback-mnt-alpine@repology
   licenses:
     - MIT AND OFL-1.1
+- repo: parabola
+  subrepo: extra
+  srcname: python-fonttools
+  binname: python-fonttools
+  visiblename: python-fonttools
+  version: 4.68.0
+  origversion: 4.68.0-1
+  status: newest
+  summary: A library to manipulate font files from Python
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: py3-fonttools
@@ -163,6 +211,18 @@
     - alpine@ptrcnull.me
   licenses:
     - MIT AND OFL-1.1
+- repo: aosc
+  srcname: desktop-fonts/fonttools
+  binname: fonttools
+  visiblename: fonttools
+  version: 4.53.1
+  origversion: 4.53.1-1
+  status: outdated
+  summary: A library for manipulating fonts
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - fonts
 - repo: alpine_3_20
   subrepo: community
   srcname: py3-fonttools
@@ -211,6 +271,19 @@
   origversion: 4.55.0-r0
   status: outdated
   summary: Precompiled Python bytecode for py3-fonttools
+  maintainers:
+    - alpine@ptrcnull.me
+  licenses:
+    - MIT AND OFL-1.1
+- repo: alpine_3_22
+  subrepo: community
+  srcname: py3-fonttools
+  binname: py3-fonttools
+  visiblename: py3-fonttools
+  version: 4.58.0
+  origversion: 4.58.0-r0
+  status: outdated
+  summary: Converts OpenType and TrueType fonts to and from XML
   maintainers:
     - alpine@ptrcnull.me
   licenses:
@@ -401,29 +474,6 @@
     - BSD
   categories:
     - Development/Tools
-- repo: amazon_2
-  srcname: fonttools
-  visiblename: fonttools
-  version: "2.4"
-  origversion: 2.4-3.amzn2
-  status: outdated
-  summary: A tool to convert True/OpenType fonts to XML and back
-  licenses:
-    - BSD
-  categories:
-    - Development/Tools
-- repo: aosc
-  srcname: desktop-fonts/fonttools
-  binname: fonttools
-  visiblename: fonttools
-  version: 4.53.1
-  origversion: 4.53.1-1
-  status: outdated
-  summary: A library for manipulating fonts
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - fonts
 - repo: apertis_v2023
   subrepo: v2023/development
   srcname: fonttools
@@ -762,23 +812,6 @@
     - python-fonttools-doc
   visiblename: fonttools
   version: 4.65.0
-  origversion: 4.65.0-1
-  status: outdated
-  maintainers:
-    - debian-fonts@lists.debian.org
-    - lfaraone@debian.org
-    - mwei@debian.org
-  categories:
-    - fonts
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: fonttools
-  binnames:
-    - python3-fonttools
-    - fonttools
-    - python-fonttools-doc
-  visiblename: fonttools
-  version: 4.65.0
   origversion: 4.65.0-2
   status: outdated
   maintainers:
@@ -831,23 +864,6 @@
   visiblename: fonttools
   version: 4.19.1
   origversion: 4.19.1-1
-  status: outdated
-  maintainers:
-    - debian-fonts@lists.debian.org
-    - lfaraone@debian.org
-    - mwei@debian.org
-  categories:
-    - fonts
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: fonttools
-  binnames:
-    - python3-fonttools
-    - fonttools
-    - python-fonttools-doc
-  visiblename: fonttools
-  version: 4.65.0
-  origversion: 4.65.0-2
   status: outdated
   maintainers:
     - debian-fonts@lists.debian.org
@@ -1018,19 +1034,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: gentoo
-  srcname: dev-python/fonttools
-  visiblename: dev-python/fonttools
-  version: 4.68.0
-  origversion: null
-  status: newest
-  summary: Library for manipulating TrueType, OpenType, AFM and Type1 fonts
-  maintainers:
-    - python@gentoo.org
-  licenses:
-    - BSD
-  categories:
-    - dev-python
 - repo: fedora_42
   subrepo: updates
   srcname: fonttools
@@ -1058,6 +1061,23 @@
     - MIT
   categories:
     - Unspecified
+- repo: pardus_21
+  subrepo: main
+  srcname: fonttools
+  binnames:
+    - python3-fonttools
+    - python-fonttools-doc
+    - fonttools
+  visiblename: fonttools
+  version: 4.19.1
+  origversion: 4.19.1-1
+  status: outdated
+  maintainers:
+    - debian-fonts@lists.debian.org
+    - lfaraone@debian.org
+    - mwei@debian.org
+  categories:
+    - fonts
 - repo: fedora_42
   subrepo: release
   srcname: fonttools
@@ -1140,33 +1160,6 @@
   categories:
     - Unspecified
 - repo: fedora_44
-  subrepo: release
-  srcname: fonttools
-  binnames:
-    - fonttools
-    - python3-fonttools
-    - python3-fonttools+graphite
-    - python3-fonttools+interpolatable
-    - python3-fonttools+lxml
-    - python3-fonttools+plot
-    - python3-fonttools+repacker
-    - python3-fonttools+symfont
-    - python3-fonttools+type1
-    - python3-fonttools+ufo
-    - python3-fonttools+unicode
-    - python3-fonttools+woff
-    - fonttools-debuginfo
-    - fonttools-debugsource
-  visiblename: fonttools
-  version: 4.61.1
-  origversion: 4.61.1-2.fc44
-  status: legacy
-  summary: Tools to manipulate font files
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_44
   subrepo: updates
   srcname: fonttools
   binnames:
@@ -1193,8 +1186,8 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_45
-  subrepo: updates
+- repo: fedora_44
+  subrepo: release
   srcname: fonttools
   binnames:
     - fonttools
@@ -1212,9 +1205,9 @@
     - fonttools-debuginfo
     - fonttools-debugsource
   visiblename: fonttools
-  version: 4.68.0
-  origversion: 4.68.0-1.fc45
-  status: newest
+  version: 4.61.1
+  origversion: 4.61.1-2.fc44
+  status: legacy
   summary: Tools to manipulate font files
   licenses:
     - MIT
@@ -1247,6 +1240,46 @@
     - MIT
   categories:
     - Unspecified
+- repo: fedora_45
+  subrepo: updates
+  srcname: fonttools
+  binnames:
+    - fonttools
+    - python3-fonttools
+    - python3-fonttools+graphite
+    - python3-fonttools+interpolatable
+    - python3-fonttools+lxml
+    - python3-fonttools+plot
+    - python3-fonttools+repacker
+    - python3-fonttools+symfont
+    - python3-fonttools+type1
+    - python3-fonttools+ufo
+    - python3-fonttools+unicode
+    - python3-fonttools+woff
+    - fonttools-debuginfo
+    - fonttools-debugsource
+  visiblename: fonttools
+  version: 4.68.0
+  origversion: 4.68.0-1.fc45
+  status: newest
+  summary: Tools to manipulate font files
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: kaos
+  subrepo: main
+  srcname: python3-fonttools
+  binname: python3-fonttools
+  visiblename: python3-fonttools
+  version: 4.68.0
+  origversion: 4.68.0-1
+  status: newest
+  summary: Converts OpenType and TrueType fonts to and from XML
+  maintainers:
+    - demm@kaosx.us
+  licenses:
+    - BSD
 - repo: fedora_rawhide
   subrepo: development
   srcname: fonttools
@@ -1315,6 +1348,19 @@
 - repo: gentoo
   srcname: dev-python/fonttools
   visiblename: dev-python/fonttools
+  version: 4.68.0
+  origversion: null
+  status: newest
+  summary: Library for manipulating TrueType, OpenType, AFM and Type1 fonts
+  maintainers:
+    - python@gentoo.org
+  licenses:
+    - BSD
+  categories:
+    - dev-python
+- repo: gentoo
+  srcname: dev-python/fonttools
+  visiblename: dev-python/fonttools
   version: 4.66.0
   origversion: null
   status: legacy
@@ -1372,19 +1418,6 @@
     - mwei@debian.org
   categories:
     - fonts
-- repo: kaos
-  subrepo: main
-  srcname: python3-fonttools
-  binname: python3-fonttools
-  visiblename: python3-fonttools
-  version: 4.68.0
-  origversion: 4.68.0-1
-  status: newest
-  summary: Converts OpenType and TrueType fonts to and from XML
-  maintainers:
-    - demm@kaosx.us
-  licenses:
-    - BSD
 - repo: liguros_stable
   srcname: dev-python/fonttools
   visiblename: dev-python/fonttools
@@ -1564,8 +1597,8 @@
     - python
 - repo: macports
   srcname: python/py-fonttools
-  binname: py315-fonttools
-  visiblename: py315-fonttools
+  binname: py314-fonttools
+  visiblename: py314-fonttools
   version: 4.68.0
   origversion: null
   status: newest
@@ -1579,8 +1612,8 @@
     - python
 - repo: macports
   srcname: python/py-fonttools
-  binname: py314-fonttools
-  visiblename: py314-fonttools
+  binname: py315-fonttools
+  visiblename: py315-fonttools
   version: 4.68.0
   origversion: null
   status: newest
@@ -1650,9 +1683,9 @@
     - python3-fonttools+woff
     - python3-fonttools+repacker
   visiblename: fonttools
-  version: 4.63.0
-  origversion: 4.63.0-2.mga11
-  status: outdated
+  version: 4.68.0
+  origversion: 4.68.0-1.mga11
+  status: newest
   summary: A tool to convert True/OpenType fonts to XML and back
   licenses:
     - BSD
@@ -1666,28 +1699,6 @@
   version: 4.66.1
   origversion: 4.66.1-1
   status: outdated
-  summary: A library to manipulate font files from Python
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: python-fonttools
-  binname: python-fonttools
-  visiblename: python-fonttools
-  version: 4.68.0
-  origversion: 4.68.0-1
-  status: newest
-  summary: A library to manipulate font files from Python
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: python-fonttools
-  binname: python-fonttools
-  visiblename: python-fonttools
-  version: 4.68.0
-  origversion: 4.68.0-1
-  status: newest
   summary: A library to manipulate font files from Python
   licenses:
     - MIT
@@ -1863,7 +1874,7 @@
   categories:
     - python313Packages
 - repo: nix_unstable
-  srcname: fonttools
+  srcname: python314Packages.fonttools
   visiblename: fonttools
   version: 4.63.0
   origversion: null
@@ -1873,25 +1884,8 @@
     - sternenseemann@systemli.org
   licenses:
     - MIT
-- repo: rosa_2019_1
-  subrepo: main/release
-  srcname: fonttools
-  binnames:
-    - fonttools
-    - python3-fonttools
-    - fonttools-debuginfo
-    - fonttools-debugsource
-  visiblename: fonttools
-  version: 4.49.0
-  origversion: 4.49.0-2
-  status: outdated
-  summary: A tool to convert True/OpenType fonts to XML and back
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - BSD
   categories:
-    - Development/Other
+    - python314Packages
 - repo: nix_unstable
   srcname: python313Packages.fonttools
   visiblename: fonttools
@@ -1906,7 +1900,7 @@
   categories:
     - python313Packages
 - repo: nix_unstable
-  srcname: python314Packages.fonttools
+  srcname: fonttools
   visiblename: fonttools
   version: 4.63.0
   origversion: null
@@ -1916,8 +1910,6 @@
     - sternenseemann@systemli.org
   licenses:
     - MIT
-  categories:
-    - python314Packages
 - repo: openbsd
   srcname: print/py-fonttools
   binname: py3-fonttools
@@ -2090,23 +2082,6 @@
     - BSD
   categories:
     - Development/Other
-- repo: ubuntu_25_04
-  subrepo: plucky-updates/universe
-  srcname: fonttools
-  binnames:
-    - python3-fonttools
-    - fonttools
-    - python-fonttools-doc
-  visiblename: fonttools
-  version: 4.55.3
-  origversion: 4.55.3-2ubuntu0.25.04.1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-    - lfaraone@debian.org
-    - mwei@debian.org
-  categories:
-    - universe/text
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: python-fonttools
@@ -2194,34 +2169,6 @@
     - MIT AND OFL-1.1
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: python-fonttools
-  binname: python-fonttools
-  visiblename: python-fonttools
-  version: 4.68.0
-  origversion: 4.68.0-1
-  status: newest
-  summary: A library to manipulate font files from Python
-  licenses:
-    - MIT
-- repo: pardus_21
-  subrepo: main
-  srcname: fonttools
-  binnames:
-    - python3-fonttools
-    - python-fonttools-doc
-    - fonttools
-  visiblename: fonttools
-  version: 4.19.1
-  origversion: 4.19.1-1
-  status: outdated
-  maintainers:
-    - debian-fonts@lists.debian.org
-    - lfaraone@debian.org
-    - mwei@debian.org
-  categories:
-    - fonts
 - repo: parrot
   subrepo: parrot/main
   srcname: fonttools
@@ -2263,25 +2210,6 @@
   origversion: 4.60.1-1pclos2025
   status: outdated
   summary: A tool to convert True/OpenType fonts to XML and back
-  categories:
-    - Development/Other
-- repo: rosa_13
-  subrepo: main/release
-  srcname: fonttools
-  binnames:
-    - fonttools
-    - python3-fonttools
-    - fonttools-debuginfo
-    - fonttools-debugsource
-  visiblename: fonttools
-  version: 4.61.1
-  origversion: 4.61.1-1
-  status: outdated
-  summary: A tool to convert True/OpenType fonts to XML and back
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - BSD
   categories:
     - Development/Other
 - repo: pisi_main
@@ -2477,6 +2405,44 @@
     - python@ravenports.com
   categories:
     - python
+- repo: rosa_2019_1
+  subrepo: main/release
+  srcname: fonttools
+  binnames:
+    - fonttools
+    - python3-fonttools
+    - fonttools-debuginfo
+    - fonttools-debugsource
+  visiblename: fonttools
+  version: 4.49.0
+  origversion: 4.49.0-2
+  status: outdated
+  summary: A tool to convert True/OpenType fonts to XML and back
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - BSD
+  categories:
+    - Development/Other
+- repo: rosa_13
+  subrepo: main/release
+  srcname: fonttools
+  binnames:
+    - fonttools
+    - python3-fonttools
+    - fonttools-debuginfo
+    - fonttools-debugsource
+  visiblename: fonttools
+  version: 4.61.1
+  origversion: 4.61.1-1
+  status: outdated
+  summary: A tool to convert True/OpenType fonts to XML and back
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - BSD
+  categories:
+    - Development/Other
 - repo: sagemath_stable
   srcname: fonttools
   binname: fonttools
@@ -2648,6 +2614,23 @@
   categories:
     - universe/text
 - repo: ubuntu_25_04
+  subrepo: plucky-updates/universe
+  srcname: fonttools
+  binnames:
+    - python3-fonttools
+    - fonttools
+    - python-fonttools-doc
+  visiblename: fonttools
+  version: 4.55.3
+  origversion: 4.55.3-2ubuntu0.25.04.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+    - lfaraone@debian.org
+    - mwei@debian.org
+  categories:
+    - universe/text
+- repo: ubuntu_25_04
   subrepo: plucky/universe
   srcname: fonttools
   binnames:
@@ -2769,12 +2752,12 @@
 - repo: void_x86_64
   subrepo: x86_64
   srcname: fonttools
-  binname: python3-fonttools
-  visiblename: python3-fonttools
+  binname: fonttools
+  visiblename: fonttools
   version: 4.59.0
   origversion: 4.59.0_2
   status: outdated
-  summary: Library to manipulate font files from Python (transitional dummy package)
+  summary: Library to manipulate font files from Python
   maintainers:
     - pangolin@vivaldi.net
   licenses:
@@ -2784,12 +2767,12 @@
 - repo: void_x86_64
   subrepo: x86_64
   srcname: fonttools
-  binname: fonttools
-  visiblename: fonttools
+  binname: python3-fonttools
+  visiblename: python3-fonttools
   version: 4.59.0
   origversion: 4.59.0_2
   status: outdated
-  summary: Library to manipulate font files from Python
+  summary: Library to manipulate font files from Python (transitional dummy package)
   maintainers:
     - pangolin@vivaldi.net
   licenses:
