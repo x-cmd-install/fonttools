@@ -30,8 +30,8 @@ x install fonttools
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (2/10) — Found 5/17 approved changesets -- score normalized to 2
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -50,18 +50,18 @@ x install fonttools
 
 ## 累计统计
 
-- **发布数**: 237 · **已合并 PR**: 1865 · **开放 PR**: 106 · **已关闭 issue**: 1541 · **开放 issue**: 313 · **提交数**: 13724
+- **发布数**: 237 · **已合并 PR**: 1865 · **开放 PR**: 109 · **已关闭 issue**: 1541 · **开放 issue**: 313 · **提交数**: 13724
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 52 | 16 | 7 | 7 | 73 |
-| last60d | 2026-09-23 | 4 | 151 | 45 | 18 | 12 | 303 |
-| 90d | 2026-08-24 | 6 | 183 | 48 | 21 | 15 | 387 |
-| last180d | 2026-05-26 | 6 | 232 | 50 | 29 | 18 | 641 |
-| 360d | 2025-11-27 | 12 | 290 | 53 | 54 | 24 | 933 |
-| last720d | 2024-12-02 | 33 | 432 | 58 | 132 | 49 | 1536 |
+| 30d | 2026-10-24 | 1 | 51 | 19 | 7 | 7 | 73 |
+| last60d | 2026-09-24 | 3 | 150 | 48 | 17 | 12 | 303 |
+| 90d | 2026-08-25 | 6 | 179 | 51 | 21 | 15 | 387 |
+| last180d | 2026-05-27 | 6 | 232 | 53 | 29 | 18 | 641 |
+| 360d | 2025-11-28 | 12 | 290 | 56 | 54 | 24 | 933 |
+| last720d | 2024-12-03 | 33 | 428 | 61 | 131 | 48 | 1534 |
 
 ## 发行版状态
 
@@ -91,4 +91,4 @@ fonttools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T07:46:01Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T10:40:15Z._

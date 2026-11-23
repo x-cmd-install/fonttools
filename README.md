@@ -30,8 +30,8 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (2/10) — Found 5/17 approved changesets -- score normalized to 2
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 237 · **Merged PRs**: 1865 · **Open PRs**: 106 · **Closed issues**: 1541 · **Open issues**: 313 · **Commits**: 13724
+- **Releases**: 237 · **Merged PRs**: 1865 · **Open PRs**: 109 · **Closed issues**: 1541 · **Open issues**: 313 · **Commits**: 13724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 52 | 16 | 7 | 7 | 73 |
-| last60d | 2026-09-23 | 4 | 151 | 45 | 18 | 12 | 303 |
-| 90d | 2026-08-24 | 6 | 183 | 48 | 21 | 15 | 387 |
-| last180d | 2026-05-26 | 6 | 232 | 50 | 29 | 18 | 641 |
-| 360d | 2025-11-27 | 12 | 290 | 53 | 54 | 24 | 933 |
-| last720d | 2024-12-02 | 33 | 432 | 58 | 132 | 49 | 1536 |
+| 30d | 2026-10-24 | 1 | 51 | 19 | 7 | 7 | 73 |
+| last60d | 2026-09-24 | 3 | 150 | 48 | 17 | 12 | 303 |
+| 90d | 2026-08-25 | 6 | 179 | 51 | 21 | 15 | 387 |
+| last180d | 2026-05-27 | 6 | 232 | 53 | 29 | 18 | 641 |
+| 360d | 2025-11-28 | 12 | 290 | 56 | 54 | 24 | 933 |
+| last720d | 2024-12-03 | 33 | 428 | 61 | 131 | 48 | 1534 |
 
 ## Distribution status
 
@@ -91,4 +91,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:46:01Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T10:40:14Z._
