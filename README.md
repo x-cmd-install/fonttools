@@ -14,11 +14,11 @@ x install fonttools
 
 ## Code insight
 
-Total: **210,015** lines of code across **1006** files in the top 5 languages.
+Total: **210,834** lines of code across **1007** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 198,935 | 10,749 | 25,407 | 605 |
+| Python | 199,754 | 10,840 | 25,522 | 606 |
 | ReStructuredText | 7,941 | 0 | 2,332 | 230 |
 | OpenType | 2,776 | 356 | 427 | 168 |
 | Xml | 103 | 0 | 0 | 1 |
@@ -46,41 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,337 · **Forks**: 584 · **Open issues**: 1,854 · **Contributors**: 171
+- **Stars**: 5,338 · **Forks**: 588 · **Open issues**: 1,855 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 237 · **Merged PRs**: 1866 · **Open PRs**: 110 · **Closed issues**: 1542 · **Open issues**: 312 · **Commits**: 13725
+- **Releases**: 237 · **Merged PRs**: 1870 · **Open PRs**: 110 · **Closed issues**: 1542 · **Open issues**: 313 · **Commits**: 13732
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 52 | 20 | 8 | 6 | 74 |
-| last60d | 2026-09-25 | 3 | 151 | 49 | 18 | 11 | 304 |
-| 90d | 2026-08-26 | 6 | 180 | 52 | 22 | 14 | 388 |
-| last180d | 2026-05-28 | 6 | 233 | 54 | 30 | 17 | 642 |
-| 360d | 2025-11-29 | 11 | 291 | 57 | 54 | 23 | 934 |
-| last720d | 2024-12-04 | 33 | 427 | 62 | 132 | 47 | 1526 |
-
-## Distribution status
-
-Reported by **191** distros on [repology.org](https://repology.org/project/fonttools). **37** are ✅ on the latest upstream release, **135** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `4.65.0` | ⚠️ outdated |
-| Debian 14 | `4.65.0` | ⚠️ outdated |
-| Debian 13 | `4.57.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `4.61.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `4.46.0` | ⚠️ outdated |
-| Arch | `4.68.0` | ✅ latest |
-| Homebrew | `4.68.0` | ✅ latest |
-| Fedora rawhide | `4.68.0` | ✅ latest |
-| Nix unstable | `4.63.0` | ⚠️ outdated |
-| Void | `4.59.0` | ⚠️ outdated |
-| Alpine edge | `4.60.1` | ⚠️ outdated |
-| openSUSE Tumbleweed | `4.67.0` | ⚠️ outdated |
+| 30d | 2026-10-26 | 1 | 52 | 19 | 8 | 7 | 83 |
+| last60d | 2026-09-26 | 3 | 154 | 49 | 18 | 12 | 313 |
+| 90d | 2026-08-27 | 6 | 184 | 52 | 22 | 15 | 397 |
+| last180d | 2026-05-29 | 6 | 237 | 54 | 30 | 18 | 651 |
+| 360d | 2025-11-30 | 11 | 295 | 57 | 54 | 24 | 943 |
+| last720d | 2024-12-05 | 33 | 430 | 62 | 131 | 48 | 1529 |
 
 ## Improve this data
 
@@ -91,4 +72,4 @@ Install metadata for fonttools lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:35:37Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:17:17Z._
