@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/fonttools/fonttools/releases/425718083",
-  "assets_url": "https://api.github.com/repos/fonttools/fonttools/releases/425718083/assets",
-  "upload_url": "https://uploads.github.com/repos/fonttools/fonttools/releases/425718083/assets{?name,label}",
-  "html_url": "https://github.com/fonttools/fonttools/releases/tag/4.68.0",
-  "id": 425718083,
+  "url": "https://api.github.com/repos/fonttools/fonttools/releases/458397573",
+  "assets_url": "https://api.github.com/repos/fonttools/fonttools/releases/458397573/assets",
+  "upload_url": "https://uploads.github.com/repos/fonttools/fonttools/releases/458397573/assets{?name,label}",
+  "html_url": "https://github.com/fonttools/fonttools/releases/tag/4.69.1",
+  "id": 458397573,
   "author": {
     "login": "anthrotype",
     "id": 6939968,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOALGbVc4ZX_FD",
-  "tag_name": "4.68.0",
+  "node_id": "RE_kwDOALGbVc4bUpeF",
+  "tag_name": "4.69.1",
   "target_commitish": "main",
-  "name": "4.68.0",
+  "name": "4.69.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-27T15:41:25Z",
-  "updated_at": "2026-10-27T16:32:05Z",
-  "published_at": "2026-10-27T16:32:05Z",
+  "created_at": "2026-11-25T16:09:33Z",
+  "updated_at": "2026-11-25T17:04:52Z",
+  "published_at": "2026-11-25T17:04:52Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/fonttools/fonttools/tarball/4.68.0",
-  "zipball_url": "https://api.github.com/repos/fonttools/fonttools/zipball/4.68.0",
-  "body": "- [feaLib] Escape `\"` and `\\` when writing names back out with `asFea()` in `FeatureNameStatement`, `STATNameStatement` and `CVParametersNameStatement` (#4321).\n- [scaleUpem] Also scale the `MATH` lengths that are not `MathValueRecord`s (`DelimitedSubFormulaMinHeight`, `DisplayOperatorMinHeight`, `MinConnectorOverlap`, etc.) (#4327).\n- [cffLib] Inherit the initial CFF2 `vsindex` from the Private DICT when decompiling, specializing and instancing charstrings, and fix `programToCommands` miscounting operands when several `blend` operators precede the first stem or moveto (#4337, #4339).\n- [instancer] Round CFF2 outlines and stem hints on absolute positions rather than per relative operand, and keep CFF2 Private DICT blend values at full precision until they are written back (#4338, #4341).\n- [cffLib] Preserve CFF2 Private DICT arrays that use more than one `blend` group (#4346).\n- [feaLib] Raise `FeatureLibError` instead of looping forever on an unclosed `OS/2`, `BASE` or `STAT` table block (#4347).\n- [designspaceLib] When a variable font overrides some `public.fontInfo` keys, merge them with the root-level font info instead of replacing it (#4336, #4340).\n- [instancer] Raise an error for `FeatureVariations` conditions of a format other than the supported axis-range one, instead of silently dropping them (#4348).\n- [filesystem] Don't overwrite an unrelated sibling `.zip` when writing a `.ufoz` or other non-`.zip` archive (#4342).\n- [glyf] Fix exponential running time on composite glyphs that reuse the same component at several nesting levels; `getCoordinates` now raises `TTLibError` past 65535 composite points (#4325).\n- [ttLib] Add support for the beyond-64k tables of the final ISO Open Font Format 5th edition: uppercase companion tables (`GLYF`, `GVAR`, `HMTX`, GSUB/GPOS extended layout, `FeatureVariations` 1.1, TTC 1.1/2.1, `DMAP`), a `ttLib.beyond64k` module and CLI, and support in `FontBuilder`, `merge`, `subset`, `instancer`, `qu2cu`, `removeOverlaps` and `scaleUpem` (#4097, #2678).\n- [VARC] Keep `addVarComponent()` locations sparse, passing `RESET_UNSPECIFIED_AXES` via a new keyword-only `resetUnspecifiedAxes` pen argument (#4349).\n- [woff] Require `brotli` >= 1.2.1 and `brotlicffi` >= 1.2.1.0, which fix GHSA-9v8h-qqgm-4m35 (#4365, #4370).\n- Build Windows ARM64 wheels (#4366).\n- [instancer] Fix `AttributeError: ElidedFallbackNameID` when updating font names of a font with a version 1.0 `STAT` table; fall back to the subfamily name (#2933, #4371).\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/fonttools/fonttools/releases/425718083/reactions",
-    "total_count": 2,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 2,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/fonttools/fonttools/tarball/4.69.1",
+  "zipball_url": "https://api.github.com/repos/fonttools/fonttools/zipball/4.69.1",
+  "body": "- Re-release of 4.69.0 with complete PyPI provenance. Uploading 4.69.0 hit PyPI's project size limit, so most of its files had to be uploaded by hand without attestations. No code changes (#4461).\n"
 }
